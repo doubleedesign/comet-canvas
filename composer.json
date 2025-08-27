@@ -1,7 +1,7 @@
 {
 	"name": "doubleedesign/comet-canvas",
 	"type": "wordpress-theme",
-	"description": "WordPress parent theme to support the intended implementation of Comet Components in WordPress.",
+	"description": "WordPress parent theme to support the intended implementation of Comet Components in WordPress with the block editor.",
 	"version": "0.0.3",
 	"homepage": "https://cometcomponents.io",
 	"minimum-stability": "dev",
